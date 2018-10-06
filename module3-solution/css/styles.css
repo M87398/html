@@ -1,0 +1,50 @@
+
+.dish-name {
+	font-size:1.2em;
+	background-color: #AAAA;
+}
+.dish-description {
+	background-color: #AAAA;
+	padding: 10px;
+}
+
+.dish-tile {
+	box-sizing: border-box;
+	background-color: #AAAAFF;
+	//border: 1px solid black;
+	padding: 20px;
+}
+
+.navbar-header {
+	float: left;
+}
+
+#header-nav {
+  background-color: #f6b319;
+  width: 100%;
+  border-radius: 0;
+  font-size:1.8em;
+}
+
+#our-menu {
+	font-size:1.8em;
+}
+
+#our-menu.text-center {
+	background-color: white;
+}
+
+
+#big-section{
+	background-color: #AAAAFF;
+	height:1000px;
+}
+#nav-list {
+	background-color: #f6b319;
+}
+
+
+
+
+
+
